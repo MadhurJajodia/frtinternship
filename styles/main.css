@@ -64,7 +64,7 @@ ul.nav {
     font-size: large;
 }
 .navbar-default .navbar-nav>li>a {
-    font-size: 12px;
+    font-size: 14px;
     color: #737373;
     text-transform: uppercase;
     transition: all .7s ease 0s;
@@ -651,7 +651,7 @@ body,
 
 @media (min-width: 992px) and (max-width: 1199px) {
     .navbar-default .navbar-nav>li>a {
-        font-size: 12px;
+        font-size: 14px;
         padding: 10px 8px;
     }
     .carousel-caption h1 {
@@ -681,7 +681,7 @@ body,
 
 @media (min-width: 768px) and (max-width: 991px) {
     .navbar-default .navbar-nav>li>a {
-        font-size: 12px;
+        font-size: 14px;
         padding: 10px 8px;
     }
     .carousel-caption h1 {
@@ -720,7 +720,7 @@ body,
         margin-top: 20px;
     }
     .navbar-default .navbar-nav>li>a {
-        font-size: 12px;
+        font-size: 14px;
     }
     .carousel-caption {
         margin-top: -110px;
@@ -774,7 +774,7 @@ body,
         right: 10%;
     }
     .navbar-default .navbar-nav>li>a {
-        font-size: 12px;
+        font-size: 14px;
         text-align: left;
     }
     .header-backup {
