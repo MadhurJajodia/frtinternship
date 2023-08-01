@@ -651,7 +651,7 @@ body,
 
 @media (min-width: 992px) and (max-width: 1199px) {
     .navbar-default .navbar-nav>li>a {
-        font-size: 20px;
+        font-size: 16px;
         padding: 14px 12px;
     }
     .carousel-caption h1 {
